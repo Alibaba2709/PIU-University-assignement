@@ -9,3 +9,5 @@ Group name: 4UI
 Exercises for argoments:
 
 1. Prototype low fidelity
+
+Inside the folders “4UI BIGLIETTERIA” and “4UI RISTORANTE” you will find the JPG deliverables and the RTF documents containing the corresponding MarvelApp links for each prototype.
